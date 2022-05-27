@@ -45,10 +45,12 @@ footer:
   copyright:
     notice: '© {year} Smidras.eu'
     license:
-      enable: true
+      enable: false
       allow_derivatives: false
-      share_alike: true
+      share_alike: false
       allow_commercial: false
+
+i_am_a_sponsor: true
 
 # Localization
 
