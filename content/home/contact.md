@@ -15,7 +15,7 @@ subtitle:
 content:
   # Contact (edit or remove options as required)
 
-  email: sonata.kirdeikiene@gmail.com
+  email: sonatakirdeike@gmail.com
   phone: "+37061151560"
   address:
     street: Uogų gatvė 15, Vainatrakio k.
