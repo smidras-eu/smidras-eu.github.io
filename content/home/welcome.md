@@ -19,4 +19,4 @@ design:
 
 <br>
 
-Auginame smidrus ir avietes nuo 2017 metų. Mylime berno zenenhundus :)
+Auginame smidrus ir avietes nuo 2017 metų. Mylime Berno Zenenhundus :)
