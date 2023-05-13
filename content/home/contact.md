@@ -14,7 +14,11 @@ subtitle:
 
 content:
   # Contact (edit or remove options as required)
-
+  contact_links:
+    - icon: facebook
+      icon_pack: fab
+      name: Facebook puslapis
+      link: 'https://www.facebook.com/profile.php?id=100091830853652'
   email: sonatakirdeike@gmail.com
   phone: "+37061151560"
   address:
