@@ -19,8 +19,8 @@ content:
       icon_pack: fab
       name: Facebook puslapis
       link: 'https://www.facebook.com/profile.php?id=100091830853652'
-  email: sonatakirdeike@gmail.com
-  phone: "+37061151560"
+#  email: sonatakirdeike@gmail.com
+  phone: "+37060817471"
   address:
     street: Uogų gatvė 15, Vainatrakio k.
     city: Kauno r. sav.
